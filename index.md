@@ -1,10 +1,10 @@
-## About (CV)
+### About (CV)
 Currently, I am working as a Postdoctoral Research Fellow with Department of Computer Science and Technology of Shandong University and State Grid Shandong Electric Power Research Institute, China.
 
 I received the B.E. degree in the Department of Software Engineering, Shandong University, China, in 2013, and received the Ph.D. degree in the Department of Computer Science and Technology, Shandong University, China, in 2018.  My main research interests include Software-defined Networking, Software-defiend Wireless Senor Networks, DDoS, Security, Trust.
 
 
-### Selected Publications ([Full lists](https://scholar.google.com.hk/citations?user=ZGhzY8MAAAAJ) 
+### Selected Publications ([Full lists](https://scholar.google.com.hk/citations?user=ZGhzY8MAAAAJ)) 
 
 Conference Paper
 [1]	Wang R, Liu D, Chen J, et al. A Secure Topology Control Mechanism for SDWSNs Using Identity-Based Cryptography[C]//International Conference on Wireless Algorithms, Systems, and Applications. Springer, Cham, 2020: 469-481.
@@ -20,31 +20,6 @@ Journal Paper
 [2]	Wang R, Zhang Z, Ju L, et al. A novel OpenFlow-based DDoS flooding attack detection and response mechanism in software-defined networking[J]. International Journal of Information Security and Privacy (IJISP), 2015, 9(3): 21-40.
 [3]	Xu H, Wang R, Jia Z. A lightweight certificate revocation scheme for hybrid mobile Ad Hoc networks[J]. International Journal of Security and Its Applications, 2016, 10(1): 287-302.
 
+###  Contact
+Email: rw AT sdu DOT edu DOT cn
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://scholar.google.com.hk/citations?user=ZGhzY8MAAAAJ) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codetime2015/ruiwang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
