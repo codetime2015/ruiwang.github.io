@@ -27,4 +27,4 @@ I received the B.E. degree in the Department of Software Engineering, Shandong U
 
 ###  Contact
 
-Email: rw AT sdu DOT edu DOT cn
+Email: rw@sdu.edu.cn
