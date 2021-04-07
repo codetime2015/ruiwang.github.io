@@ -1,6 +1,6 @@
 ### About (CV)
 
-Currently, I am working as a Postdoctoral Research Fellow in the Department of Computer Science and Technology of Shandong University and State Grid Shandong Electric Power Research Institute at the same time.
+Currently, I am working as a Postdoctoral Research Fellow with Department of Computer Science and Technology of Shandong University and State Grid Shandong Electric Power Research Institute at the same time.
 
 I received the B.E. degree in the Department of Software Engineering, Shandong University, China, in 2013, and received the Ph.D. degree in the Department of Computer Science and Technology, Shandong University, China, in 2018.  My main research interests include Software-defined Networking, Software-defined Wireless Senor Networks, DDoS, Security, Trust.
 
